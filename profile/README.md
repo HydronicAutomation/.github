@@ -1,20 +1,8 @@
-# THE COMPANY
+THE COMPANY
+Our background is rather unusual for doing hydronic systems, we are not tradesmen nor engineers, but more a DIY focused, but always looking to improve the hydronic system.
+We have long advocated for zoning in hydronic systems. While zoning was rarely seen in practice, it makes perfect sense for efficiency and effectiveness. 
+Home owners rarely turn down or off circuits manually to rooms not being used, it really seemed rather wasteful.
+We installed various zoning systems available on the market; however, they were often simple and limited in application. 
+Leveraging our programming skills, we worked on a controller that could manage every room or area independently and automatically—a perfect solution for an effective and efficient heating and cooling hydronics system.
 
-My background for hydronic systems is not typical.
-I worked in the financial markets, Degree in finance with post graduate degrees in derivatives, many years ago.
-I first did some hydronic heating for my place I was building on a rural property near Goulburn NSW Australia around the early 2000’s.
-Trying to get someone for my house who could do the job, was rather difficult and soon realised their knowledge on the subject matter was non-existent.
-After doing some research I installed the system myself; then helped a friend or two.
-I teamed up with Frank Eden who commence the company Solar Satisfaction.
-His background and was working in computer programming, he wanted to make a practical difference to the planet.
-We were always trying to improve the designs and researching products and methods. It certainly has not always worked as planned.
-We have tried many systems, from solar thermal, wood, wood chips, wood pellets, waste oil, gas boilers and now the most popular heat pumps. With our first heat pump installation almost 10 years ago, one of the first in Canberra.
-
-One requirement we have specified for many years, we only do in-slabs installations IF the concrete slab is fully insulated, we have developed insulated concrete slab designs that engineers were happy to work with [see concrete-slab-insulation Gallery]
-( I struggled early on to even find an engineer to design such a concrete slab, something that had been standard for decades overseas),
-We also advocated zoning.
-Zoning was one area that was rarely seen, but it makes perfect sense.
-We installed many different zoning systems on the market, all very simple and very limited in application. With Frank’s programming abilities we worked on a controller.
-To control every room and or area independently and automated, perfect solution for an effective and efficient heating and now cooling hydronics system.
-So after various versions and many installations we now sell our own automated hydronic systems for any manifold. Designed with functionality and ease of installation.
-Smarter than any smart thermostat.
+After several iterations, we designed and manufactured our own controller that works with any manifold. This controller is built with functionality and ease of installation in mind and integrates seamlessly into the home automation platform Home Assistant, making it smarter than any traditional smart thermostat.
