@@ -1,8 +1,8 @@
 THE COMPANY
-Our background is rather unusual for doing hydronic systems, we are not tradesmen nor engineers, but more a DIY focused, but always looking to improve the hydronic system.
-We have long advocated for zoning in hydronic systems. While zoning was rarely seen in practice, it makes perfect sense for efficiency and effectiveness. 
-Home owners rarely turn down or off circuits manually to rooms not being used, it really seemed rather wasteful.
-We installed various zoning systems available on the market; however, they were often simple and limited in application. 
-Leveraging our programming skills, we worked on a controller that could manage every room or area independently and automatically—a perfect solution for an effective and efficient heating and cooling hydronics system.
 
-After several iterations, we designed and manufactured our own controller that works with any manifold. This controller is built with functionality and ease of installation in mind and integrates seamlessly into the home automation platform Home Assistant, making it smarter than any traditional smart thermostat.
+Our background in hydronic systems is quite unconventional. We are not tradespeople or engineers; instead, we are DIY enthusiasts who are always striving to enhance hydronic systems. 
+One of our key advocacies has been the implementation of zoning in these systems. Although zoning was rarely utilized in practice, we recognized its potential for improving efficiency and effectiveness. It often seemed wasteful that homeowners rarely turned off or adjusted circuits manually for unused rooms.
+
+We explored various zoning systems available on the market, but found them to be often simplistic and limited in their applications. To address this, we leveraged our programming expertise to develop a controller capable of managing each room or area independently and automatically—an ideal solution for an efficient heating and cooling hydronics system.
+
+After several iterations, we successfully designed and manufactured our own controller that is compatible with any manifold. This controller prioritizes functionality and ease of installation, seamlessly integrating into the home automation platform Home Assistant, making it smarter than any conventional smart thermostat.
